@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/tboy/renegade-exploit/renegade-bug-bounty/renegade-contracts/contracts-stylus/exploits/RelayerExploit.sol": {
+      "lastModificationDate": 1728467566305,
+      "contentHash": "c6a6b52c8dea032a8a960e2c418e2110",
+      "sourceName": "contracts-stylus/exploits/RelayerExploit.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "RelayerExploit"
+      ]
+    }
+  }
+}
